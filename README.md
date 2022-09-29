@@ -71,5 +71,7 @@
 
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q2tN4Ewh5uUtlWDgoI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/EUCouncil-strong-hands-together-Q2tN4Ewh5uUtlWDgoI">via GIPHY</a></p>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
