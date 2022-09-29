@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👯 I’m looking to collaborate on **world wide projects.**
 
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
@@ -71,7 +74,5 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
