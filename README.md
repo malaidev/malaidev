@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://codepen.io/malaidev" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)" alt="malaidev" height="30" width="40" /></a>
 <a href="https://codepen.io/malaidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="malaidev" height="30" width="40" /></a>
 <a href="https://dev.to/malaidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malaidev" height="30" width="40" /></a>
 <a href="https://twitter.com/malaidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malaidev" height="30" width="40" /></a>
