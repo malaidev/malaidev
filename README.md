@@ -71,5 +71,5 @@
 
 
 
-<iframe src="https://giphy.com/embed/Q2tN4Ewh5uUtlWDgoI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/EUCouncil-strong-hands-together-Q2tN4Ewh5uUtlWDgoI">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q2tN4Ewh5uUtlWDgoI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/EUCouncil-strong-hands-together-Q2tN4Ewh5uUtlWDgoI">via GIPHY</a></p>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
