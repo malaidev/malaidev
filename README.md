@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
 
-- 🌱 I’m currently learning **Rust for Blockchain.**
-
 - 👯 I’m looking to collaborate on **world wide projects.**
 
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
@@ -11,9 +9,7 @@
 
 - 📫 How to reach me **jefferykang@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
