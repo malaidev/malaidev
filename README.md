@@ -3,7 +3,7 @@
 <div>
  
 - 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
- <div id="header" align="right" display="inline">
+ <div id="header" align="right" style="display:inline">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
