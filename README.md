@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, solidity and PHP.**
 
-- 📫 How to reach me **jefferykang@gmail.com**
+- 📫 How to reach me **jefferykang92@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
