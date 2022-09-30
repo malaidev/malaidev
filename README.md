@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- 👯 I’m looking to collaborate on **world wide projects.**
+- 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
 
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
 
