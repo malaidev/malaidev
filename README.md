@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jefferykang@gmail.com**
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Alt text" title="Optional title">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
