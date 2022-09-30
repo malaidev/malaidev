@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
-<h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
+<h3 align="center">A passionate full-stack and blockchain developer from Malaysian devs.</h3>
 
 <div display-"inline"> 
  <div>
