@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
 <div>
-  <div id="header" align="right">
+ 
+- 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
+ <div id="header" align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
-- 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
-
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
 
 - 💬 Ask me about **React, solidity and PHP.**
