@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
 
-<div style="display:inline"> 
+<div display-"inline"> 
  <div>
 - 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
  
