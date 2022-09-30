@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
-<div>
+<div display="inline">
  
 - 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
  
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jefferykang92@gmail.com**
 <div>
-<div id="header" align="right">
+<div id="header" align="right" display="inline">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
