@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 - 👯 I’m looking to collaborate on **world wide projects.**
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Alt text" title="Optional title">
-
 
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
 
