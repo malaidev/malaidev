@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeffery Kang.</h1>
 <h3 align="center">A passionate web and app developer from Malaysian devs.</h3>
-<div display="inline">
- 
+
+<div style="display:inline"> 
+ <div>
 - 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
  
 - 🤝 I’m looking for help with **Websites and Crypto app development.**
@@ -10,10 +11,10 @@
 
 - 📫 How to reach me **jefferykang92@gmail.com**
 <div>
-<div id="header" align="right" display="inline">
+<div id="header" align="right" style="display:inline">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
