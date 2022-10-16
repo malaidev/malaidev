@@ -128,10 +128,10 @@
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-jefferykang.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jefferykang"><img src="https://img.shields.io/badge/-Jeffery%20Kang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jefferykang92@gmail.com"><img src="https://img.shields.io/badge/-jefferykang92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@jefferykang92-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://www.behance.net/jefferykang92"><img src="https://img.shields.io/badge/-@jefferykang92-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://telegram.org/adityavs_"><img src="https://img.shields.io/badge/-@jefferykang92-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://skype.com/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://discord.com/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://whatsapp.com/jefferykang92"><img src="https://img.shields.io/badge/-@jefferykang92-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
 </p>
 
 
