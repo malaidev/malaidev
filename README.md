@@ -131,7 +131,7 @@
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://www.behance.net/jefferykang92"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
 </p>
 
 
