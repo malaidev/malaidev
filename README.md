@@ -125,12 +125,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jefferykang"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jefferykang92@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-jefferykang.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jefferykang"><img src="https://img.shields.io/badge/-Jeffery%20Kang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jefferykang92@gmail.com"><img src="https://img.shields.io/badge/-jefferykang92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@jefferykang92-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@jefferykang92-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://www.behance.net/jefferykang92"><img src="https://img.shields.io/badge/-@jefferykang92-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
 </p>
 
