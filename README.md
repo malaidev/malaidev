@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, solidity and PHP.**
 
-- 📫 How to reach me **jefferykang92@gmail.com**
+- 📫 How to reach me **jefferykang921015@gmail.com**
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
