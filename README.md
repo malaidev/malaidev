@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm an Ace Malai Dev.</h1>
-<h3 align="center">A passionate full-stack and blockchain developer from Malaysian devs.</h3>
+<h3 align="center">A Professional Senior web and mobile Developer with blockchain experience.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div display-"inline"> 
  <div>
-- 👯 I always take ownership for the frontend development of our products with modern JavaScript tooling in an agile environment.
+- 👯 I have 9+ years experience of design UI, develop admin panel web application and add functions and integrate api and the important ability to lead the global team.
  
-- 🤝 I’m looking for help with **Websites and Crypto app development.**
+- 🤝 With a strong attention to detail and accuracy I have been taking a proven track record of success in achieving extraordinary results in various industries.
 
-- 💬 Ask me about **React, solidity and PHP.**
+- 💬 My ambition is to join well-known and fast-growing business to be senior software engineer to broaden my horizon.
 
 - 📫 How to reach me **jefferykang921015@gmail.com**
 </div>
@@ -69,10 +69,7 @@
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      
     </p> 
   
   
@@ -88,50 +85,44 @@
   </p> 
   
    
+  <h3 align="left">Database: </h3>
+    <p align="left">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </p>
+  
+  <h3 align="left">DevOps: </h3>
+    <p align="left">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </p>
+  
+
   <h3 align="left">Unit Testing: </h3>
     <p align="left">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
     </p> 
-  
-   
-  <h3 align="left">Database: </h3>
-    <p align="left">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  
-  
-
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+    
+    
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/malidev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -140,15 +131,13 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://"><img src="https://img.shields.io/badge/-jefferykang.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://"><img src="https://img.shields.io/badge/-Jeffery%20Kang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kangjeffery921015@gmail.com"><img src="https://img.shields.io/badge/-kangjeffery921015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://telegram.org/malaidev92"><img src="https://img.shields.io/badge/-@malaidev92-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://skype.com/Jeffery Kang"><img src="https://img.shields.io/badge/-@Jeffery Kang-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://discord.com/malaidev92"><img src="https://img.shields.io/badge/-@malaidev92-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://whatsapp.com/malaidev92"><img src="https://img.shields.io/badge/-@malaidev92-1769FF?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="mailto:jefferykang921015@gmail.com"><img src="https://img.shields.io/badge/-jefferykang921015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/WillKeenlyFixBug"><img src="https://img.shields.io/badge/-@WillKeenlyFixBug-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://skype.com/Block Chainer"><img src="https://img.shields.io/badge/-@Block Chainer-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://discord.com/Malaidev #6975"><img src="https://img.shields.io/badge/-@mMalaidev #6975-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
 
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+Flexible time management, customizing requirement, and project progress handle ability will always with you! :)
