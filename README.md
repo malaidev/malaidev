@@ -47,7 +47,7 @@
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-    </p> <br/>
+    </p> 
   <h3 align="left">Backend Development: </h3>
     <p align="left"> 
       <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
@@ -64,7 +64,7 @@
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/> 
-    </p> <br/>
+    </p> 
 <h3 align="left">Mobile Application Development:</h3>
   <p align="left"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
@@ -73,7 +73,7 @@
     <img align="center" alt="Ionic" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"/>
     <img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  </p> <br/>
+  </p> 
  <h3 align="left">Blockchian:</h3>
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="30" height="30"/>
@@ -89,7 +89,7 @@
      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/>
-   </p><br/>
+   </p>
   <h3 align="left">DevOps: </h3>
     <p align="left">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
@@ -99,7 +99,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
-    </p><br/>
+    </p>
   <h3 align="left">Unit Testing: </h3>
     <p align="left">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30"/>
