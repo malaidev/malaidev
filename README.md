@@ -121,20 +121,20 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/malidev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/malidev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://"><img src="https://img.shields.io/badge/-Jeffery%20Kang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jefferykang921015@gmail.com"><img src="https://img.shields.io/badge/-jefferykang921015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/WillKeenlyFixBug"><img src="https://img.shields.io/badge/-@WillKeenlyFixBug-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
-  <a href="https://discord.com/Malaidev#6975"><img src="https://img.shields.io/badge/-@mMalaidev#6975-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://skype.com/Block Chainer"><img src="https://img.shields.io/badge/-@Block Chainer-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
+  <a href="https://"><img src="https://img.shields.io/badge/-Jeffery%20Kang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:jefferykang921015@gmail.com"><img src="https://img.shields.io/badge/-jefferykang921015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://t.me/WillKeenlyFixBug"><img src="https://img.shields.io/badge/-@WillKeenlyFixBug-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+  <a href="https://skype.com/Block Chainer"><img src="https://img.shields.io/badge/-@Block Chainer-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
+  <a href="https://discord.com/Malaidev6975"><img src="https://img.shields.io/badge/-@mMalaidev6975-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
 
