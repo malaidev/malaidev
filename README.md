@@ -134,7 +134,7 @@
   <a href="mailto:jefferykang921015@gmail.com"><img src="https://img.shields.io/badge/-jefferykang921015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://t.me/WillKeenlyFixBug"><img src="https://img.shields.io/badge/-@WillKeenlyFixBug-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
   <a href="https://skype.com/Block Chainer"><img src="https://img.shields.io/badge/-@Block Chainer-1877F2?style=flat&logo=Skype&logoColor=white"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/-'@Malaidev #6975'-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/-@Malaidev '#'6975-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
 
