@@ -78,7 +78,7 @@
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
-  </p> <br/>
+  </p> 
  <h3 align="left">Database: </h3>
    <p align="left">
      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/>  
